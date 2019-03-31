@@ -17,8 +17,6 @@ const { Pool, Client } = require('pg')
 //})
 
 
-
-
 const pool = new Pool({
   host: '10.10.10.234', // 127.0.0.1
   port: 5432,
