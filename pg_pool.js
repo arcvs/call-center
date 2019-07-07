@@ -22,7 +22,7 @@ const pool = new Pool({
   port: 5432,
   database: 'callcenter',
   user: 'postgres',
-  password: 'Malta247', // 1
+  password: '111-00-A', // 1
   //max: 20,
   //idleTimeoutMillis: 3000,
   //connectionTimeoutMillis: 3000,
