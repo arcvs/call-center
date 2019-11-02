@@ -23,7 +23,7 @@
     "body-parser": "^1.18.3",
     "buble": "*",
     "buble-loader": "*",
-    "connect-pg-simple": "^5.0.0",
+    "connect-pg-simple": "^6.0.1",
     "cookie-parser": "^1.4.3",
     "css-loader": "^2.0.2",
     "element-theme-chalk": "^2.4.11",
